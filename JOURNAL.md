@@ -30,7 +30,7 @@ Build the main landing page"
 created_at: "2026-06-7"
 
 
-# June 8th: made the lock screen (its so bad i have sm refining to do 
+# June 7th: made the lock screen (its so bad i have sm refining to do)
 
 [ made the lock screen with the background and my back hurts like hell is there a chair grant?]
 
@@ -38,4 +38,21 @@ created_at: "2026-06-7"
 ![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/cc24322c4458fda2785fe1e6ea6fea475edd16ec/Screenshot%20From%202026-06-07%2023-41-21.png)
 
 **Total time spent: 45mins according to hackatime**
+
+
+
+
+# June 8th: made the lock screen (refined the lock screen using figma and pintrest assets, dw once im done w this journal ill add the assets)
+
+[ used figma and pintrest to make a much better lock screen my back still hurts like hell is there a chair grant? please include one]
+
+
+![Image Alt]()
+
+**Total time spent: 45mins according to hackatime**
+
+
+
+
+
 
