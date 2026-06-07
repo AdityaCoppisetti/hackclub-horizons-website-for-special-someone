@@ -60,7 +60,7 @@ context- im still not yet good with web dev. apparently.
 
 and then this is tthen with the assets as background image
 
-![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/7fdde1317cc8422e23d89c9bc995e579402bf2d9/image.png)
+![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/ea3a2bd30519670045c7fd927301b7a7e2e44e90/image.png)
 
 Total time spent: about 40 mins idek 
 
