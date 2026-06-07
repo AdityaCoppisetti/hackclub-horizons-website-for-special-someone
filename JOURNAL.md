@@ -50,7 +50,7 @@ created_at: "2026-06-7"
 ![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/9230cf32dae6d7ed9cab182b852715164a316338/Screenshot%20From%202026-06-08%2001-11-29.png)
 
 **Total time spent: 16.2 mins according to lapse**
-( i cant seem to figure out how figma hackatime extension works so im using figma)
+( i cant seem to figure out how figma hackatime extension works so im using lapse)
 
 
 
