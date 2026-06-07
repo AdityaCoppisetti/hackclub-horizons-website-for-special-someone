@@ -35,6 +35,7 @@ created_at: "2026-06-7"
 [ made the lock screen with the background and my back hurts like hell is there a chair grant?]
 
 
-[insert pictures of what you're working on!]
+![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/cc24322c4458fda2785fe1e6ea6fea475edd16ec/Screenshot%20From%202026-06-07%2023-41-21.png)
 
-**Total time spent: 2h**
+**Total time spent: 45mins according to hackatime**
+
