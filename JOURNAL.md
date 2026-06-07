@@ -47,10 +47,10 @@ created_at: "2026-06-7"
 [ used figma and pintrest to make a much better lock screen my back still hurts like hell is there a chair grant? please include one]
 
 
-![Image Alt]()
+![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/9230cf32dae6d7ed9cab182b852715164a316338/Screenshot%20From%202026-06-08%2001-11-29.png)
 
-**Total time spent: 45mins according to hackatime**
-
+**Total time spent: 16.2 mins according to lapse**
+( i cant seem to figure out how figma hackatime extension works so im using figma)
 
 
 
