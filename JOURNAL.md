@@ -28,3 +28,13 @@ Create a flower bloom animation after successful login
 Add ambient background music
 Build the main landing page"
 created_at: "2026-06-7"
+
+
+# June 8th: made the lock screen (its so bad i have sm refining to do 
+
+[ made the lock screen with the background and my back hurts like hell is there a chair grant?]
+
+
+[insert pictures of what you're working on!]
+
+**Total time spent: 2h**
