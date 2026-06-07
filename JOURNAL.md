@@ -56,12 +56,9 @@ context- im still not yet good with web dev. apparently.
 
 [actual journal content - i tried to make the assets be in the correct position but idk what is this shitass pintrest image lenth and bredth idek its freaking me out, so i tried alot to get it to be the way i want it to be but it just wouldnt and im loosing my sanity at this point. i will be still putting it as indexDRAFT.html in the repo so you can access it and correct it for me if you can. what ive decided is that im just going to use the figma design i made and use it as a background and then add the unlock lock section on that. after all its just the lock screen page ehhh im allowed to do that]
 
-![Image Alt](
+![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/9b625c93f67d802c20d4dfe7d8649b995638b41b/Screenshot%20From%202026-06-08%2002-57-48.png)
 
-Total time spent: 2h
-
-**Total time spent: 16.2 mins according to lapse**
-( i cant seem to figure out how figma hackatime extension works so im using lapse)
+Total time spent: about 40 mins idek
 
 
 
