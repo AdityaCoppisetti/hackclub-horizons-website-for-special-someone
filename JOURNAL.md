@@ -49,6 +49,17 @@ created_at: "2026-06-7"
 
 ![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/9230cf32dae6d7ed9cab182b852715164a316338/Screenshot%20From%202026-06-08%2001-11-29.png)
 
+
+June 8th: the lock page is giving me a ton of trouble. i have tried a ton of ways to fix the way my assets are showing. 
+## TIME - almost 4 in the morning and im loosing my mind.
+context- im still not yet good with web dev. apparently.
+
+[actual journal content - i tried to make the assets be in the correct position but idk what is this shitass pintrest image lenth and bredth idek its freaking me out, so i tried alot to get it to be the way i want it to be but it just wouldnt and im loosing my sanity at this point. i will be still putting it as indexDRAFT.html in the repo so you can access it and correct it for me if you can. what ive decided is that im just going to use the figma design i made and use it as a background and then add the unlock lock section on that. after all its just the lock screen page ehhh im allowed to do that]
+
+![Image Alt](
+
+Total time spent: 2h
+
 **Total time spent: 16.2 mins according to lapse**
 ( i cant seem to figure out how figma hackatime extension works so im using lapse)
 
