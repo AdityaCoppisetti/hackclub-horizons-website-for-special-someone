@@ -58,7 +58,11 @@ context- im still not yet good with web dev. apparently.
 
 ![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/9b625c93f67d802c20d4dfe7d8649b995638b41b/Screenshot%20From%202026-06-08%2002-57-48.png)
 
-Total time spent: about 40 mins idek
+and then this is the image without the password text box and the buttons
+
+![Image Alt](https://github.com/AdityaCoppisetti/hackclub-horizons-website-for-special-someone/blob/7fdde1317cc8422e23d89c9bc995e579402bf2d9/image.png)
+
+Total time spent: about 40 mins idek 
 
 
 
